@@ -22,5 +22,6 @@ const users = [
   const logger = updatedUsers => console.table(updatedUsers);
   
 
+   // Вызовы функции для проверки
   toggleUserState(users, 'Mango').then(logger);
   toggleUserState(users, 'Lux').then(logger);

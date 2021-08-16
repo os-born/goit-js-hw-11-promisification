@@ -1,3 +1,3 @@
-import './js/TaskFirst.js'
+// import './js/TaskFirst.js'
 // import './js/TaskSecond.js'
-// import './js/TaskThird.js'
+import './js/TaskThird.js'
